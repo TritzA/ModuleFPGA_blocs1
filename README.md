@@ -18,20 +18,20 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 ## Représentation
 UAL final.
 
-![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/tests1bit.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/UAL.PNG)
 
 Comparateur 4 bits.
 
-![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/modele4bits.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/CMP_4B.PNG)
 
 Diviseur 4 bits.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/exhaustif.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/DIV_4B.PNG)
 
 Multiplexeur 4 bits.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_zero.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/MUX_2_1_4B.PNG)
 
 Multiplexeur 1 bit.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_f.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/MUX_2_1_1B.PNG)
