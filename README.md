@@ -35,3 +35,11 @@ Multiplexeur 4 bits.
 Multiplexeur 1 bit.
 
 ![alt text](https://github.com/TritzA/UAL/blob/main/MUX_2_1_1B.PNG)
+
+Test exhaustif de l'UAL.
+
+![alt text](https://github.com/TritzA/UAL/blob/main/exhaustif.PNG)
+
+Test centré en A = 0xF de l'UAL.
+
+![alt text](https://github.com/TritzA/UAL/blob/main/a_vaut_f.PNG)
