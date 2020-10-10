@@ -1,4 +1,4 @@
-# UAL
+# Unité Aritétique et Logique (UAL)
 Laboratoire : 2
 
 Cours : INF1500 Logique des systèmes numériques
