@@ -1,5 +1,7 @@
 # UniteArithmetiqueLogique
 
+Diviseur ou comparateur choisi grace à un multiplexeur.
+
 Laboratoire : 2
 
 Cours : INF1500 Logique des systèmes numériques
