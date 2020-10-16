@@ -25,39 +25,39 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 UAL final.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/UAL.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/UAL.png)
 
 Comparateur 4 bits.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/CMP_4B.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/CMP_4B.png)
 
 Diviseur 4 bits.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/DIV_4B.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/DIV_4B.png)
 
 Multiplexeur 4 bits.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_4B.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_4B.png)
 
 Multiplexeur 1 bit.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_1B.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_1B.png)
 
 ### Tests
 
 Test exhaustif de l'UAL.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/exhaustif.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/exhaustif.png)
 
 Test centré en A = 0xF de l'UAL.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/a_vaut_f.PNG)
+![alt text](https://github.com/TritzA/UAL/blob/main/images/a_vaut_f.png)
 
 ### Implémentation phyisque sur une carte FPGA
 
 Fichier de contraintes en *.txt avant sa modification en *.xdc.
 
-![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/images/contraintes.PNG)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/images/contraintes.png)
 
 Carte FPGA.
 
