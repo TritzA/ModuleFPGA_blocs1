@@ -52,3 +52,17 @@ Test exhaustif de l'UAL.
 Test centré en A = 0xF de l'UAL.
 
 ![alt text](https://github.com/TritzA/UAL/blob/main/a_vaut_f.PNG)
+
+### Implémentation phyisque sur une carte FPGA
+
+Fichier de contraintes en *.txt avant sa modification en *.xdc.
+
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/contraintes.PNG)
+
+Carte FPGA.
+
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/Nexys4.jpg)
+
+Circuit de la carte FPGA.
+
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/Mapping_Nexys4.png)
