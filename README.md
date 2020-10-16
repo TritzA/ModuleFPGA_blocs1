@@ -2,7 +2,7 @@
 
 Diviseur ou comparateur choisi grace à un multiplexeur.
 
-Laboratoire : 2
+Laboratoire : 2/5
 
 Cours : INF1500 Logique des systèmes numériques
 
