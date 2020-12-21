@@ -11,7 +11,7 @@ Partenaire : James Brutus
 
 ## Objectifs
 
-Modéliser un diviseur entier par 4 ou comparateur choisi grace à un multiplexeur, le tout sur 4 bits.
+Modéliser, implémenter et tester un diviseur entier par 4 ou comparateur choisi grace à un multiplexeur, le tout sur 4 bits.
 
 ## Utilisations
 Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/download.html)
