@@ -1,4 +1,4 @@
-# ModuleFPGAblocs1
+# ModuleFPGA_blocs1
 
 Diviseur ou comparateur choisi grace à un multiplexeur.
 
