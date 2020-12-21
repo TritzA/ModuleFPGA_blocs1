@@ -23,6 +23,10 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 ### Circuits
 
+Objectif.
+
+![alt text](https://github.com/TritzA/ModuleFPGAblocs1/blob/main/images/image_2020-12-20_221816.png)
+
 UAL final.
 
 ![alt text](https://github.com/TritzA/UAL/blob/main/images/UAL.png)
