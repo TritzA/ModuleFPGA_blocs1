@@ -4,7 +4,9 @@ Diviseur ou comparateur choisi grace à un multiplexeur.
 
 Laboratoire : 2/5
 
-Cours : INF1500 Logique des systèmes numériques
+Cours : [INF1500 Logique des systèmes numériques](https://www.polymtl.ca/programmes/cours/logique-des-systemes-numeriques)
+
+École : [Polytechnique Montréal](https://www.polymtl.ca)
 
 Partenaire : James Brutus
 
